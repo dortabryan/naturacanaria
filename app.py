@@ -101,7 +101,7 @@ with tab_map:
     st.write("Los puntos indican zonas de alta probabilidad de avistamiento.")
     
     # Crear el mapa centrado en Canarias
-    m = folium.Map(location=[28.29, -16.6], zoom_start=8, tiles="Stamen Terrain")
+    m = folium.Map(location=[28.29, -16.6], zoom_start=8)
     
     # Añadir los puntos de las especies al mapa
     for i, row in df_filtrado.iterrows():
