@@ -1,23 +1,28 @@
 Nombre,Cientifico,Grupo,Isla,Lat,Lon,Desc
-Pinzón Azul de Tenerife,Fringilla teydea,Aves,Tenerife,28.27,-16.64,Ave emblemática que habita en los pinos canarios.
-Pinzón Azul de Gran Canaria,Fringilla polatzeki,Aves,Gran Canaria,27.95,-15.60,Especie en peligro crítico exclusiva de los pinares de Inagua.
-Lagarto Gigante de El Hierro,Gallotia simonyi,Reptiles,El Hierro,27.75,-18.03,Uno de los reptiles más amenazados del mundo.
-Lagarto Gigante de La Gomera,Gallotia bravoana,Reptiles,La Gomera,28.12,-17.34,Redescubierto en los riscos de la Mérica.
-Lagarto Canario Moteado,Gallotia intermedia,Reptiles,Tenerife,28.15,-16.84,Habita en los acantilados de Los Gigantes.
-Tajinaste Rojo,Echium wildpretii,Flora,Tenerife,28.21,-16.62,Planta espectacular que alcanza 3 metros de altura.
-Drago Milenario,Dracaena draco,Flora,Tenerife,28.36,-16.72,Árbol símbolo de la naturaleza canaria.
-Hubara Canaria,Chlamydotis undulata fuertaventurae,Aves,Fuerteventura,28.50,-13.90,Ave esteparia de gran tamaño y plumaje críptico.
-Guirre Canario,Neophron percnopterus majorensis,Aves,Fuerteventura,28.45,-14.00,Única especie de buitre de las islas.
-Pardela Cenicienta,Calonectris diomedea,Aves Marinas,Costas,28.00,-14.50,Ave marina que nidifica en acantilados y cuevas.
-Paloma Rabiche,Columba junoniae,Aves,La Palma,28.70,-17.85,Paloma de la laurisilva con cola clara.
-Paloma Turqué,Columba bollii,Aves,Tenerife,28.32,-16.20,Habitante de los bosques de laurisilva más densos.
-Cernícalo Canario,Falco tinnunculus canariensis,Aves,Todas,28.40,-16.30,Pequeña rapaz muy común en todas las islas.
-Canario,Serinus canaria,Aves,Todas,28.50,-16.40,Ave silvestre de la que proceden las variedades domésticas.
-Perenquén Boettger,Tarentola boettgeri,Reptiles,Gran Canaria,27.90,-15.50,Pequeño geco nocturno muy beneficioso.
-Musaraña Canaria,Crocidura canariensis,Mamíferos,Fuerteventura,28.60,-13.95,Pequeño mamífero insectívoro endémico del archipiélago.
-Orejudo Canario,Plecotus teneriffae,Mamíferos,Tenerife,28.30,-16.60,Murciélago de orejas enormes que vive en cuevas y galerías.
-Pino Canario,Pinus canariensis,Flora,Todas,28.25,-16.60,Árbol resistente al fuego que domina las medianías.
-Cresta de Gallo,Isoplexis canariensis,Flora,Tenerife,28.35,-16.25,Planta de flores anaranjadas polinizada por aves.
-Loro Parque,Amazona oratrix,Aves,Tenerife,28.41,-16.56,Especie introducida que se observa en zonas urbanas (ejemplo alóctona).
-Abubilla (Tabobo),Upupa epops,Aves,Todas,28.20,-14.10,Muy común en zonas abiertas y agrícolas.
-Corredor Sahariano,Cursorius cursor,Aves,Fuerteventura,28.40,-13.90,Ave del desierto que corre velozmente por el suelo.
+Pinzón Azul de Tenerife,Fringilla teydea,Aves,Tenerife,28.27,-16.64,"Ave exclusiva de Tenerife. Vive en el pinar de corona forestal. Estado: Protegida."
+Pinzón Azul de Gran Canaria,Fringilla polatzeki,Aves,Gran Canaria,27.95,-15.60,"En peligro crítico. Habita únicamente en los pinares de Inagua. Estado: Crítico."
+Hubara Canaria,Chlamydotis undulata fuertaventurae,Aves,Fuerteventura,28.50,-13.95,"Ave esteparia de gran tamaño, símbolo de las zonas áridas y jables. Estado: Vulnerable."
+Guirre Canario,Neophron percnopterus majorensis,Aves,Fuerteventura,28.45,-14.05,"Único buitre de Canarias. Se alimenta de carroña y es vital para el ecosistema. Estado: En Peligro."
+Paloma Rabiche,Columba junoniae,Aves,La Palma,28.70,-17.85,"Paloma de la laurisilva con cola blanca distintiva. Habita en barrancos profundos."
+Paloma Turqué,Columba bollii,Aves,La Gomera,28.12,-17.22,"Habitante de la laurisilva húmeda. Se alimenta de los frutos del laurel y el viñátigo."
+Cernícalo Canario,Falco tinnunculus canariensis,Aves,Todas,28.42,-16.25,"Rapaz más común del archipiélago. Muy fácil de ver 'cerniéndose' en el aire para cazar."
+Pardela Cenicienta,Calonectris diomedea,Aves,Costas,28.05,-14.30,"Ave marina que nidifica en acantilados. Su canto nocturno es muy característico."
+Delfín Mular,Tursiops truncatus,Marinos,Aguas Canarias,28.15,-16.75,"Cetáceo inteligente y social. Canarias es uno de los mejores lugares del mundo para verlo."
+Calderón Tropical,Globicephala macrorhynchus,Marinos,Tenerife Sur,28.12,-16.85,"Llamado ballena piloto. Residente permanente en el canal entre Tenerife y La Gomera."
+Tortuga Boba,Caretta caretta,Marinos,Aguas Canarias,28.40,-14.15,"Migradora oceánica. Utiliza las islas como zona de alimentación y descanso."
+Angelote,Squatina squatina,Marinos,Zonas Costeras,28.10,-15.45,"Tiburón plano que se camufla en la arena. Canarias es su último gran refugio mundial."
+Cachalote,Physeter macrocephalus,Marinos,Aguas Profundas,28.00,-17.00,"El gigante de las profundidades. Puede sumergirse a más de 2000 metros buscando calamares."
+Lagarto Gigante de El Hierro,Gallotia simonyi machadoi,Reptiles,El Hierro,27.75,-18.03,"Símbolo de El Hierro. Estuvo a punto de extinguirse y hoy vive en el Lagartario y riscos."
+Lagarto Gigante de La Gomera,Gallotia bravoana,Reptiles,La Gomera,28.12,-17.34,"Redescubierto en 1999. Vive en los acantilados de la Mérica en Valle Gran Rey."
+Lagarto Canario Moteado,Gallotia intermedia,Reptiles,Tenerife,28.25,-16.85,"Habita en los acantilados de Los Gigantes. Descubierto para la ciencia recientemente."
+Perenquén de Delalande,Tarentola delalandii,Reptiles,Tenerife/La Palma,28.35,-16.35,"Geco nocturno de ojos grandes. Muy beneficioso porque come mosquitos y polillas."
+Lisa Canaria,Chalcides viridanus,Reptiles,Tenerife,28.30,-16.50,"Pequeño reptil de cuerpo cilíndrico y escamas brillantes. Muy ágil entre las piedras."
+Ranita de San Antonio,Hyla meridionalis,Anfibios,Tenerife,28.42,-16.32,"Color verde brillante. Sus coros nocturnos son famosos en las zonas húmedas del norte."
+Rana Común,Pelophylax perezi,Anfibios,Todas,28.15,-17.15,"Presente en casi todos los barrancos con agua permanente y estanques de riego."
+Cochino Negro Canario,Sus scrofa domestica,Granja,Todas,28.35,-16.45,"Raza de piel negra y pelo grueso. Su carne es una joya de la gastronomía canaria."
+Vaca Canaria,Bos taurus,Granja,Tenerife/GC,28.52,-16.15,"Raza boyal de gran nobleza y fuerza, protagonista en las romerías y el arrastre de ganado."
+Cabra Majorera,Capra hircus,Granja,Fuerteventura,28.40,-14.05,"Adaptada a la aridez. Produce la leche con la que se elabora el premiado queso majorero."
+Oveja Canaria,Ovis aries,Granja,Gran Canaria,28.05,-15.60,"Fundamental para el pastoreo transhumante y la elaboración de quesos de flor."
+Drago Milenario,Dracaena draco,Flora,Tenerife,28.36,-16.72,"Planta suculenta de crecimiento lentísimo. Su savia roja era llamada 'sangre de drago'."
+Tajinaste Rojo,Echium wildpretii,Flora,Tenerife,28.22,-16.63,"Inflorescencia gigante que puede alcanzar 3 metros. Florece en primavera en el Teide."
+Pino Canario,Pinus canariensis,Flora,Todas,28.30,-16.60,"Único pino del mundo capaz de rebrotar tras un incendio. Clave en el ciclo del agua."
